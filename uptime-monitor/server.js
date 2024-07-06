@@ -7,7 +7,7 @@ const port = 3000;
 
 // Array to store URLs to monitor
 const urlsToMonitor = [
-    'https://cool-vknc.onrender.com',
+    'https://cool-vknc.onrender.com/status',
 ];
 
 // Function to check the status of a URL
