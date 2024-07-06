@@ -7,8 +7,7 @@ const port = 3000;
 
 // Array to store URLs to monitor
 const urlsToMonitor = [
-    'https://example.com',
-    'https://3000-idx-cool-1720243261012.cluster-fu5knmr55rd44vy7k7pxk74ams.cloudworkstations.dev/status'
+    'https://cool-vknc.onrender.com',
 ];
 
 // Function to check the status of a URL
